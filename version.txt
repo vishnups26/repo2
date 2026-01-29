@@ -1,0 +1,11 @@
+========================================
+        DEPLOYMENT VERSION INFO
+========================================
+Version: v1.0.6
+Build Number: 6
+Timestamp: 2026-01-29 10:57:04
+Docker Image: psvishnu2000/devopsubuntu:6
+Latest Tag: psvishnu2000/devopsubuntu:latest
+Status: Deployed Successfully
+========================================
+
