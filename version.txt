@@ -1,10 +1,10 @@
 ========================================
         DEPLOYMENT VERSION INFO
 ========================================
-Version: v1.0.7
-Build Number: 7
-Timestamp: 2026-01-29 12:09:14
-Docker Image: psvishnu2000/devopsubuntu:7
+Version: v1.0.8
+Build Number: 8
+Timestamp: 2026-02-02 14:28:28
+Docker Image: psvishnu2000/devopsubuntu:8
 Latest Tag: psvishnu2000/devopsubuntu:latest
 Status: Deployed Successfully
 ========================================
